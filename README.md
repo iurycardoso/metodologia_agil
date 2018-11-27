@@ -1,4 +1,4 @@
-# Projetos Metodologia Ágil
+# Projeto Metodologia Ágil
 ____________________
 ## KANBAN
 
