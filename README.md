@@ -2,7 +2,7 @@
 ____________________
 ## KANBAN
 
-> Quadro kanban criado por mim com a finalidade de implementar o manifesto ágil para a equipe de desenvolvimento a qual faço parte
+> Quadro kanban criado por mim com a finalidade de implementar o manifesto ágil para a equipe de desenvolvimento a qual fiz parte
 
 _______________________
 
